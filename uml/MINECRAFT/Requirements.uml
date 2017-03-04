@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_aLylAAC6EeeWiLmjNP5Kzg" name="RootElement">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_RzmJAADQEeeWiLmjNP5Kzg" name="Player"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Ts7CIADQEeeWiLmjNP5Kzg" name="UseSandbox"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_VlMyYADQEeeWiLmjNP5Kzg" name="BuildConstruction"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_YIfOgADQEeeWiLmjNP5Kzg" name="UseCube"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_htdksADQEeeWiLmjNP5Kzg" name="GameManager"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_nXFfoADQEeeWiLmjNP5Kzg" name="GenerateWorld"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_t9XQEADQEeeWiLmjNP5Kzg" name="Explore"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_vrPuMADQEeeWiLmjNP5Kzg" name="GatherResource"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_xv2DMADQEeeWiLmjNP5Kzg" name="Craft"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_3FerIADQEeeWiLmjNP5Kzg" name="Combat"/>
+</uml:Model>
