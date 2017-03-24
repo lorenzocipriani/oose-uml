@@ -295,6 +295,19 @@
     <element xmi:type="uml:UseCase" href="Requirements.uml#_age1EADaEeeWiLmjNP5Kzg"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aggDMQDaEeeWiLmjNP5Kzg" x="1155" y="516"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_CzG5wBCREeeKNN6pCULsyw" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_CzJWABCREeeKNN6pCULsyw" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_CzJWARCREeeKNN6pCULsyw" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_CzJWAhCREeeKNN6pCULsyw" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_CzJWAxCREeeKNN6pCULsyw" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_CzJWBBCREeeKNN6pCULsyw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_CzJWBRCREeeKNN6pCULsyw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CzJWBhCREeeKNN6pCULsyw"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="Requirements.uml#_CyLFoBCREeeKNN6pCULsyw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CzG5wRCREeeKNN6pCULsyw" x="864" y="433"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_1SrGMQDPEeeWiLmjNP5Kzg" name="diagram_compatibility_version" stringValue="1.2.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_1SrGMgDPEeeWiLmjNP5Kzg"/>
   <styles xmi:type="style:PapyrusViewStyle" xmi:id="_1SrGMwDPEeeWiLmjNP5Kzg">
