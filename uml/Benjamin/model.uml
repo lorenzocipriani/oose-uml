@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ActionLanguage="http://www.omg.org/spec/ALF/20120827/ActionLanguage-Profile" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.omg.org/spec/ALF/20120827/ActionLanguage-Profile pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ">
+  <uml:Model xmi:id="_j8GnkBrcEeerMbnjRvgBzQ" name="RootElement">
+    <packagedElement xmi:type="uml:Class" xmi:id="_r0wl4BrcEeerMbnjRvgBzQ" name="Survival mode virtual environment">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_GnqLMBreEeerMbnjRvgBzQ" name="Limited block">
+        <ownedComment xmi:type="uml:Comment" xmi:id="_c93iwBrfEeerMbnjRvgBzQ">
+          <body>+ Password &lt;Password> {unique}</body>
+        </ownedComment>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_GpW0UBreEeerMbnjRvgBzQ" name="Limited Health 10 hearths"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_GxT2cBreEeerMbnjRvgBzQ" name="3 Difficulty levels"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_GzZhIBreEeerMbnjRvgBzQ" name="Creatures"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_G9mmABreEeerMbnjRvgBzQ" name="Attribute6"/>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_HGk70BreEeerMbnjRvgBzQ" name="Attribute7"/>
+      <ownedOperation xmi:type="uml:Operation" xmi:id="_3zP7sBrdEeerMbnjRvgBzQ" name="Run"/>
+      <nestedClassifier xmi:type="uml:Class" xmi:id="_FUkLoBreEeerMbnjRvgBzQ" name="Class1"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_EYsxkBrkEeerMbnjRvgBzQ" name="Game Generator">
+      <nestedClassifier xmi:type="uml:PrimitiveType" xmi:id="_xPTaACnlEeeDeclgo0TF0A" name=""/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_fRkRcBrkEeerMbnjRvgBzQ" name="Class1"/>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_duaEUBreEeerMbnjRvgBzQ">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_due80BreEeerMbnjRvgBzQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#ActionLanguage"/>
+    </profileApplication>
+  </uml:Model>
+  <ActionLanguage:TextualRepresentation xmi:id="_6Yu6wBreEeerMbnjRvgBzQ" language="org.eclipse.papyrus.uml.textedit.property.xtext.UmlProperty"/>
+  <ActionLanguage:TextualRepresentation xmi:id="_c94J0BrfEeerMbnjRvgBzQ" base_Comment="_c93iwBrfEeerMbnjRvgBzQ" language="org.eclipse.papyrus.uml.textedit.property.xtext.UmlProperty"/>
+</xmi:XMI>
